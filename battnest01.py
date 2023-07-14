@@ -31,15 +31,15 @@ def screenGrab(rect):
     return image
 
 # Specify the screen region here
-x = 1503
-y = 331
-width = 1546 - x
-height = 355 - y
+x = 1488
+y = 338
+width = 1549 - x
+height = 377 - y
 
 # Area of screen to monitor
 screen_rect = [x, y, width, height]  
 
-print("Watching: " + str(screen_rect))
+## print("Watching: " + str(screen_rect))
 
 ### Loop forever, monitoring the user-specified rectangle of the screen
 while True: 
@@ -48,5 +48,19 @@ while True:
 
     # IF the OCR found anything, write it to stdout.
     text = text.strip()
-    if len(text) > 0:
-        print(text)
+    #if len(text) > 0:
+    print(text)
+    
+
+    text = text.replace("%", "")
+
+    # convert the string to an integer
+    text = int(text)
+
+    # check if value of the variable 'text' is less than 60
+    if text > 90:
+        subprocess.run(["python", "clickhere60.py"])
+
+    if text < 80:
+        subprocess.run(["python", "clickhere77.py"])
+
