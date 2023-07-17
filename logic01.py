@@ -2,7 +2,18 @@
 
 import pytesseract
 import subprocess
+import time
+import datetime
 from PIL import Image
+
+
+def turn_off_ac():
+    print("battery state fell below 85. Turning AC off...")
+    subprocess.run(["python", "turn_ac_off.py"])
+
+def turn_on_ac():
+    print("battery state rose above 98. Turning AC on...")
+    subprocess.run(["python", "turn_ac_on.py"])
 
 # Import ImageGrab if possible, might fail on Linux
 try:
@@ -28,20 +39,31 @@ def screenGrab(rect):
         image = Image.frombuffer("RGB", (width, height), raw_image.data, "raw", "BGRX", 0, 1)
     return image
 
+
 x = 969
 y = 318
 width = 1029 - x
 height = 353 - y
 screen_rect = [x, y, width, height]  
 
-last_state_90 = False
-last_state_80 = False
+ac_on = False
 
 while True: 
     image = screenGrab(screen_rect)
     text  = pytesseract.image_to_string(image)
     text = text.strip()
     text = text.replace("%", "")
-    print('raw thing is',text)
     batState = int(text)
-    print(batState)
+    print(f"Current battery state: {batState}")
+
+    if batState > 95 and not ac_on:
+        turn_on_ac()
+        ac_on = True
+    elif batState <= 90 and ac_on:
+        turn_off_ac()
+        ac_on = False
+
+    current_time = datetime.datetime.now()
+    print("Current time:", current_time)
+    print("AC on =",ac_on)
+    time.sleep(60*5)  # Wait for 1 second before checking again
