@@ -1,0 +1,1470 @@
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 97, "remainTime": 579, "wattsOutSum": 1954, "wattsInSum": 1814}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 95, "remainTime": 238, "wattsOutSum": 1961, "wattsInSum": 1518}, "tid": ""}
+Current Date and Time: 2023-08-29 15:44:48================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 96, "remainTime": 494, "wattsOutSum": 1990, "wattsInSum": 1809}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 93, "remainTime": 215, "wattsOutSum": 2015, "wattsInSum": 1525}, "tid": ""}
+Current Date and Time: 2023-08-29 15:49:52================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 95, "remainTime": 451, "wattsOutSum": 1953, "wattsInSum": 1772}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 90, "remainTime": 217, "wattsOutSum": 1952, "wattsInSum": 1479}, "tid": ""}
+Current Date and Time: 2023-08-29 15:54:55================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 94, "remainTime": 408, "wattsOutSum": 2022, "wattsInSum": 1767}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 89, "remainTime": 225, "wattsOutSum": 1871, "wattsInSum": 1426}, "tid": ""}
+Current Date and Time: 2023-08-29 15:59:58================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 84, "remainTime": 245, "wattsOutSum": 1998, "wattsInSum": 1524}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 69, "remainTime": 138, "wattsOutSum": 1848, "wattsInSum": 1237}, "tid": ""}
+Current Date and Time: 2023-08-29 17:01:38================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 11, "remainTime": 485, "wattsOutSum": 319, "wattsInSum": 722}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 34, "remainTime": 178, "wattsOutSum": 545, "wattsInSum": 1227}, "tid": ""}
+Current Date and Time: 2023-08-30 09:12:25================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 12, "remainTime": 462, "wattsOutSum": 333, "wattsInSum": 744}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 36, "remainTime": 167, "wattsOutSum": 539, "wattsInSum": 1247}, "tid": ""}
+Current Date and Time: 2023-08-30 09:17:28================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 13, "remainTime": 398, "wattsOutSum": 384, "wattsInSum": 863}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 38, "remainTime": 159, "wattsOutSum": 540, "wattsInSum": 1266}, "tid": ""}
+Current Date and Time: 2023-08-30 09:22:31================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 27, "remainTime": 208, "wattsOutSum": 575, "wattsInSum": 1368}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 61, "remainTime": 90, "wattsOutSum": 586, "wattsInSum": 1433}, "tid": ""}
+Current Date and Time: 2023-08-30 10:14:05================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 29, "remainTime": 198, "wattsOutSum": 578, "wattsInSum": 1387}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 63, "remainTime": 85, "wattsOutSum": 593, "wattsInSum": 1440}, "tid": ""}
+Current Date and Time: 2023-08-30 10:19:08================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 31, "remainTime": 190, "wattsOutSum": 582, "wattsInSum": 1408}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 65, "remainTime": 80, "wattsOutSum": 600, "wattsInSum": 1449}, "tid": ""}
+Current Date and Time: 2023-08-30 10:24:11================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 33, "remainTime": 181, "wattsOutSum": 592, "wattsInSum": 1429}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 68, "remainTime": 75, "wattsOutSum": 600, "wattsInSum": 1456}, "tid": ""}
+Current Date and Time: 2023-08-30 10:29:14================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 173, "wattsOutSum": 599, "wattsInSum": 1453}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 70, "remainTime": 70, "wattsOutSum": 610, "wattsInSum": 1464}, "tid": ""}
+Current Date and Time: 2023-08-30 10:34:17================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 37, "remainTime": 166, "wattsOutSum": 610, "wattsInSum": 1475}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 73, "remainTime": 65, "wattsOutSum": 621, "wattsInSum": 1477}, "tid": ""}
+Current Date and Time: 2023-08-30 10:39:21================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 38, "remainTime": 159, "wattsOutSum": 613, "wattsInSum": 1490}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 75, "remainTime": 60, "wattsOutSum": 628, "wattsInSum": 1486}, "tid": ""}
+Current Date and Time: 2023-08-30 10:44:24================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 40, "remainTime": 152, "wattsOutSum": 623, "wattsInSum": 1513}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 77, "remainTime": 56, "wattsOutSum": 641, "wattsInSum": 1496}, "tid": ""}
+Current Date and Time: 2023-08-30 10:49:27================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 42, "remainTime": 146, "wattsOutSum": 627, "wattsInSum": 1530}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 80, "remainTime": 51, "wattsOutSum": 652, "wattsInSum": 1501}, "tid": ""}
+Current Date and Time: 2023-08-30 10:54:30================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 44, "remainTime": 140, "wattsOutSum": 641, "wattsInSum": 1550}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 82, "remainTime": 47, "wattsOutSum": 666, "wattsInSum": 1507}, "tid": ""}
+Current Date and Time: 2023-08-30 10:59:33================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 47, "remainTime": 134, "wattsOutSum": 651, "wattsInSum": 1564}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 84, "remainTime": 43, "wattsOutSum": 680, "wattsInSum": 1512}, "tid": ""}
+Current Date and Time: 2023-08-30 11:04:37================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 49, "remainTime": 128, "wattsOutSum": 655, "wattsInSum": 1581}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 87, "remainTime": 38, "wattsOutSum": 704, "wattsInSum": 1519}, "tid": ""}
+Current Date and Time: 2023-08-30 11:09:40================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 55, "remainTime": 115, "wattsOutSum": 679, "wattsInSum": 1600}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 93, "remainTime": 27, "wattsOutSum": 805, "wattsInSum": 1530}, "tid": ""}
+Current Date and Time: 2023-08-30 11:25:37================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 57, "remainTime": 112, "wattsOutSum": 693, "wattsInSum": 1599}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 95, "remainTime": 22, "wattsOutSum": 813, "wattsInSum": 1531}, "tid": ""}
+Current Date and Time: 2023-08-30 11:30:40================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 59, "remainTime": 109, "wattsOutSum": 710, "wattsInSum": 1599}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 97, "remainTime": 16, "wattsOutSum": 776, "wattsInSum": 1544}, "tid": ""}
+Current Date and Time: 2023-08-30 11:35:43================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 61, "remainTime": 108, "wattsOutSum": 735, "wattsInSum": 1598}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 99, "remainTime": 12, "wattsOutSum": 708, "wattsInSum": 1542}, "tid": ""}
+Current Date and Time: 2023-08-30 11:40:46================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 63, "remainTime": 109, "wattsOutSum": 776, "wattsInSum": 1600}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 99, "remainTime": 12, "wattsOutSum": 681, "wattsInSum": 1549}, "tid": ""}
+Current Date and Time: 2023-08-30 11:45:50================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 65, "remainTime": 109, "wattsOutSum": 808, "wattsInSum": 1601}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 99, "remainTime": 11, "wattsOutSum": 668, "wattsInSum": 1553}, "tid": ""}
+Current Date and Time: 2023-08-30 11:50:53================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 78, "remainTime": 61, "wattsOutSum": 668, "wattsInSum": 1599}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 99, "remainTime": 12, "wattsOutSum": 676, "wattsInSum": 1548}, "tid": ""}
+Current Date and Time: 2023-08-30 12:25:51================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 80, "remainTime": 56, "wattsOutSum": 665, "wattsInSum": 1599}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 99, "remainTime": 12, "wattsOutSum": 686, "wattsInSum": 1559}, "tid": ""}
+Current Date and Time: 2023-08-30 12:30:54================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 95, "remainTime": 22, "wattsOutSum": 704, "wattsInSum": 1600}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 99, "remainTime": 12, "wattsOutSum": 831, "wattsInSum": 1583}, "tid": ""}
+Current Date and Time: 2023-08-30 13:07:37================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 99, "remainTime": 1055, "wattsOutSum": 1853, "wattsInSum": 1846}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 97, "remainTime": 696, "wattsOutSum": 1715, "wattsInSum": 1663}, "tid": ""}
+Current Date and Time: 2023-08-30 13:44:35================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 95, "remainTime": 758, "wattsOutSum": 1875, "wattsInSum": 1804}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 91, "remainTime": 503, "wattsOutSum": 1756, "wattsInSum": 1639}, "tid": ""}
+Current Date and Time: 2023-08-30 14:20:52================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 94, "remainTime": 760, "wattsOutSum": 1875, "wattsInSum": 1808}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 90, "remainTime": 516, "wattsOutSum": 1734, "wattsInSum": 1622}, "tid": ""}
+Current Date and Time: 2023-08-30 14:25:55================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 93, "remainTime": 720, "wattsOutSum": 1882, "wattsInSum": 1804}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 89, "remainTime": 493, "wattsOutSum": 1732, "wattsInSum": 1616}, "tid": ""}
+Current Date and Time: 2023-08-30 14:30:58================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 93, "remainTime": 680, "wattsOutSum": 1899, "wattsInSum": 1812}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 88, "remainTime": 452, "wattsOutSum": 1760, "wattsInSum": 1614}, "tid": ""}
+Current Date and Time: 2023-08-30 14:36:01================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 92, "remainTime": 669, "wattsOutSum": 1908, "wattsInSum": 1820}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 87, "remainTime": 418, "wattsOutSum": 1766, "wattsInSum": 1607}, "tid": ""}
+Current Date and Time: 2023-08-30 14:41:05================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 91, "remainTime": 719, "wattsOutSum": 1861, "wattsInSum": 1797}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 86, "remainTime": 430, "wattsOutSum": 1730, "wattsInSum": 1579}, "tid": ""}
+Current Date and Time: 2023-08-30 14:46:08================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 91, "remainTime": 653, "wattsOutSum": 1914, "wattsInSum": 1820}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 85, "remainTime": 377, "wattsOutSum": 1771, "wattsInSum": 1584}, "tid": ""}
+Current Date and Time: 2023-08-30 14:51:11================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 90, "remainTime": 659, "wattsOutSum": 1899, "wattsInSum": 1807}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 84, "remainTime": 385, "wattsOutSum": 1737, "wattsInSum": 1567}, "tid": ""}
+Current Date and Time: 2023-08-30 14:56:14================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 86, "remainTime": 670, "wattsOutSum": 1857, "wattsInSum": 1778}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 76, "remainTime": 302, "wattsOutSum": 1712, "wattsInSum": 1471}, "tid": ""}
+Current Date and Time: 2023-08-30 15:30:25================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 89, "remainTime": 143999, "wattsOutSum": 1634, "wattsInSum": 1535}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 74, "remainTime": 216, "wattsOutSum": 1670, "wattsInSum": 1247}, "tid": ""}
+Current Date and Time: 2023-08-30 16:21:29================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 87, "remainTime": 50, "wattsOutSum": 464, "wattsInSum": 1205}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 69, "remainTime": 134, "wattsOutSum": 298, "wattsInSum": 757}, "tid": ""}
+Current Date and Time: 2023-08-30 16:44:08================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 89, "remainTime": 391, "wattsOutSum": 1810, "wattsInSum": 1507}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 70, "remainTime": 175, "wattsOutSum": 1672, "wattsInSum": 1174}, "tid": ""}
+Current Date and Time: 2023-08-30 16:49:11================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 87, "remainTime": 349, "wattsOutSum": 1823, "wattsInSum": 1469}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 68, "remainTime": 171, "wattsOutSum": 1671, "wattsInSum": 1170}, "tid": ""}
+Current Date and Time: 2023-08-30 16:54:15================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 86, "remainTime": 66, "wattsOutSum": 381, "wattsInSum": 967}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 64, "remainTime": 207, "wattsOutSum": 220, "wattsInSum": 552}, "tid": ""}
+Current Date and Time: 2023-08-30 17:14:34================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 51, "remainTime": 102, "wattsOutSum": 1675, "wattsInSum": 801}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 17, "remainTime": 29, "wattsOutSum": 1552, "wattsInSum": 763}, "tid": ""}
+Current Date and Time: 2023-08-30 18:50:55================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 48, "remainTime": 97, "wattsOutSum": 1673, "wattsInSum": 794}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 15, "remainTime": 25, "wattsOutSum": 1549, "wattsInSum": 765}, "tid": ""}
+Current Date and Time: 2023-08-30 18:55:58================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 46, "remainTime": 90, "wattsOutSum": 1681, "wattsInSum": 751}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 12, "remainTime": 20, "wattsOutSum": 1559, "wattsInSum": 737}, "tid": ""}
+Current Date and Time: 2023-08-30 19:01:01================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 43, "remainTime": 85, "wattsOutSum": 1676, "wattsInSum": 754}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 9, "remainTime": 15, "wattsOutSum": 1551, "wattsInSum": 740}, "tid": ""}
+Current Date and Time: 2023-08-30 19:06:04================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 41, "remainTime": 82, "wattsOutSum": 1658, "wattsInSum": 751}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 6, "remainTime": 10, "wattsOutSum": 1543, "wattsInSum": 759}, "tid": ""}
+Current Date and Time: 2023-08-30 19:11:08================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 38, "remainTime": 77, "wattsOutSum": 1637, "wattsInSum": 747}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 3, "remainTime": 6, "wattsOutSum": 1515, "wattsInSum": 766}, "tid": ""}
+Current Date and Time: 2023-08-30 19:16:11================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 36, "remainTime": 72, "wattsOutSum": 1642, "wattsInSum": 767}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 2, "wattsOutSum": 1511, "wattsInSum": 788}, "tid": ""}
+Current Date and Time: 2023-08-30 19:21:14================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 33, "remainTime": 68, "wattsOutSum": 1626, "wattsInSum": 767}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 2, "wattsOutSum": 1509, "wattsInSum": 824}, "tid": ""}
+Current Date and Time: 2023-08-30 19:26:17================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 31, "remainTime": 65, "wattsOutSum": 1618, "wattsInSum": 766}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 3, "wattsOutSum": 1495, "wattsInSum": 853}, "tid": ""}
+Current Date and Time: 2023-08-30 19:31:21================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 29, "remainTime": 61, "wattsOutSum": 1606, "wattsInSum": 776}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 3, "wattsOutSum": 1496, "wattsInSum": 871}, "tid": ""}
+Current Date and Time: 2023-08-30 19:36:24================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 26, "remainTime": 57, "wattsOutSum": 1617, "wattsInSum": 795}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 3, "wattsOutSum": 1497, "wattsInSum": 883}, "tid": ""}
+Current Date and Time: 2023-08-30 19:41:27================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 24, "remainTime": 54, "wattsOutSum": 1619, "wattsInSum": 828}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 3, "wattsOutSum": 1510, "wattsInSum": 881}, "tid": ""}
+Current Date and Time: 2023-08-30 19:46:30================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 22, "remainTime": 51, "wattsOutSum": 1600, "wattsInSum": 856}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 3, "wattsOutSum": 1489, "wattsInSum": 840}, "tid": ""}
+Current Date and Time: 2023-08-30 19:51:34================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 20, "remainTime": 49, "wattsOutSum": 1601, "wattsInSum": 885}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 3, "wattsOutSum": 1487, "wattsInSum": 813}, "tid": ""}
+Current Date and Time: 2023-08-30 19:56:37================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 19, "remainTime": 1449, "wattsOutSum": 0, "wattsInSum": 132}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 2, "remainTime": 2633, "wattsOutSum": 0, "wattsInSum": 85}, "tid": ""}
+Current Date and Time: 2023-08-30 20:01:40================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 19, "remainTime": 1775, "wattsOutSum": 0, "wattsInSum": 106}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 2, "remainTime": 4670, "wattsOutSum": 0, "wattsInSum": 56}, "tid": ""}
+Current Date and Time: 2023-08-30 20:06:43================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 20, "remainTime": 2421, "wattsOutSum": 0, "wattsInSum": 89}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 2, "remainTime": 7233, "wattsOutSum": 0, "wattsInSum": 46}, "tid": ""}
+Current Date and Time: 2023-08-30 20:11:46================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 18, "remainTime": 43, "wattsOutSum": 1611, "wattsInSum": 870}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 2, "wattsOutSum": 1489, "wattsInSum": 795}, "tid": ""}
+Current Date and Time: 2023-08-30 20:16:50================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 16, "remainTime": 39, "wattsOutSum": 1597, "wattsInSum": 872}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 2, "wattsOutSum": 1474, "wattsInSum": 800}, "tid": ""}
+Current Date and Time: 2023-08-30 20:21:53================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 14, "remainTime": 34, "wattsOutSum": 1584, "wattsInSum": 851}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 2, "wattsOutSum": 1473, "wattsInSum": 798}, "tid": ""}
+Current Date and Time: 2023-08-30 20:26:56================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 12, "remainTime": 28, "wattsOutSum": 1576, "wattsInSum": 829}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 2, "wattsOutSum": 1466, "wattsInSum": 789}, "tid": ""}
+Current Date and Time: 2023-08-30 20:31:59================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 10, "remainTime": 23, "wattsOutSum": 1599, "wattsInSum": 834}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 2, "wattsOutSum": 1485, "wattsInSum": 812}, "tid": ""}
+Current Date and Time: 2023-08-30 20:37:03================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 8, "remainTime": 18, "wattsOutSum": 1604, "wattsInSum": 862}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 2, "wattsOutSum": 1488, "wattsInSum": 781}, "tid": ""}
+Current Date and Time: 2023-08-30 20:42:06================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 7, "remainTime": 2139, "wattsOutSum": 0, "wattsInSum": 104}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 2, "remainTime": 7254, "wattsOutSum": 0, "wattsInSum": 45}, "tid": ""}
+Current Date and Time: 2023-08-30 20:47:09================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 7, "remainTime": 4100, "wattsOutSum": 0, "wattsInSum": 68}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 2, "remainTime": 145, "wattsOutSum": 0, "wattsInSum": 25}, "tid": ""}
+Current Date and Time: 2023-08-30 20:52:13================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 7, "remainTime": 7602, "wattsOutSum": 0, "wattsInSum": 49}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 2, "remainTime": 144, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 20:57:16================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 6, "remainTime": 14, "wattsOutSum": 1563, "wattsInSum": 811}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 2, "wattsOutSum": 1455, "wattsInSum": 732}, "tid": ""}
+Current Date and Time: 2023-08-30 21:02:20================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 4, "remainTime": 9, "wattsOutSum": 1570, "wattsInSum": 808}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 2, "wattsOutSum": 1452, "wattsInSum": 736}, "tid": ""}
+Current Date and Time: 2023-08-30 21:07:23================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 2, "remainTime": 4, "wattsOutSum": 1554, "wattsInSum": 818}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 2, "wattsOutSum": 1443, "wattsInSum": 763}, "tid": ""}
+Current Date and Time: 2023-08-30 21:12:27================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 3, "wattsOutSum": 1494, "wattsInSum": 748}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 3, "wattsOutSum": 1506, "wattsInSum": 882}, "tid": ""}
+Current Date and Time: 2023-08-30 21:17:30================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 25}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 2, "remainTime": 2481, "wattsOutSum": 0, "wattsInSum": 75}, "tid": ""}
+Current Date and Time: 2023-08-30 21:22:33================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 2, "remainTime": 151, "wattsOutSum": 0, "wattsInSum": 22}, "tid": ""}
+Current Date and Time: 2023-08-30 21:27:37================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 2, "remainTime": 149, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 21:32:40================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 3, "wattsOutSum": 1500, "wattsInSum": 730}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 2, "wattsOutSum": 1500, "wattsInSum": 746}, "tid": ""}
+Current Date and Time: 2023-08-30 21:37:43================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 21:42:46================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 132, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 21:47:50================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 127, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 21:52:53================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 21:57:56================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 127, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 22:02:59================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 22:08:02================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 22:13:06================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 22:18:09================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 22:23:12================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 22:28:16================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 138, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 22:33:19================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 22:38:22================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 22:43:25================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 22:48:28================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 22:53:32================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 22:58:35================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 23:03:38================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 23:08:41================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 23:13:44================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 23:18:48================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 23:23:51================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 23:28:54================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 23:33:57================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 23:39:01================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 23:44:04================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 23:49:07================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 23:54:10================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-30 23:59:13================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 00:04:17================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 00:09:20================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 00:14:23================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 00:19:26================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 00:24:30================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 00:29:33================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 00:34:36================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 00:39:39================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 00:44:43================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 00:49:46================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 00:54:49================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 00:59:53================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 01:04:56================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 01:09:59================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 01:15:03================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 01:20:06================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 01:25:09================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 01:30:12================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 90, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 01:35:16================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 90, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 01:40:19================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 90, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 01:45:22================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 79, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 01:50:25================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 01:55:29================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 02:00:32================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 02:05:35================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 02:10:38================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 02:15:42================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 02:20:45================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 02:25:48================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 02:30:51================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 02:35:55================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 02:40:58================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 02:46:02================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 02:51:05================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 02:56:08================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 03:01:11================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 03:06:15================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 03:11:18================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 03:16:21================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 03:21:24================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 03:26:27================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 03:31:31================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 03:36:34================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 03:41:37================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Current Date and Time: 2023-08-31 03:46:40================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 1, "remainTime": 191, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Current Date and Time: 2023-08-31 03:51:43================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Current Date and Time: 2023-08-31 03:56:47================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Current Date and Time: 2023-08-31 04:01:50================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Current Date and Time: 2023-08-31 04:06:53================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Current Date and Time: 2023-08-31 04:11:56================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Current Date and Time: 2023-08-31 04:16:59================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Current Date and Time: 2023-08-31 04:22:03================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Current Date and Time: 2023-08-31 04:27:06================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Current Date and Time: 2023-08-31 04:32:09================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Current Date and Time: 2023-08-31 04:37:12================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Current Date and Time: 2023-08-31 04:42:16================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Current Date and Time: 2023-08-31 04:47:19================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Current Date and Time: 2023-08-31 06:20:58================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Current Date and Time: 2023-08-31 06:26:01================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Current Date and Time: 2023-08-31 06:31:04================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Current Date and Time: 2023-08-31 06:36:08================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "6012", "message": "the device is offline", "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 0, "remainTime": 1, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 06:41:11================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 3, "remainTime": 1360, "wattsOutSum": 114, "wattsInSum": 295}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 9, "remainTime": 361, "wattsOutSum": 295, "wattsInSum": 728}, "tid": ""}
+Current Date and Time: 2023-08-31 08:03:21================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 3, "remainTime": 2218, "wattsOutSum": 62, "wattsInSum": 188}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 11, "remainTime": 341, "wattsOutSum": 315, "wattsInSum": 771}, "tid": ""}
+Current Date and Time: 2023-08-31 08:08:25================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 3, "remainTime": 2514, "wattsOutSum": 55, "wattsInSum": 173}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 12, "remainTime": 322, "wattsOutSum": 335, "wattsInSum": 809}, "tid": ""}
+Current Date and Time: 2023-08-31 08:13:28================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 4, "remainTime": 2629, "wattsOutSum": 52, "wattsInSum": 164}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 13, "remainTime": 310, "wattsOutSum": 362, "wattsInSum": 850}, "tid": ""}
+Current Date and Time: 2023-08-31 08:18:31================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 4, "remainTime": 2296, "wattsOutSum": 59, "wattsInSum": 179}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 15, "remainTime": 299, "wattsOutSum": 385, "wattsInSum": 886}, "tid": ""}
+Current Date and Time: 2023-08-31 08:23:34================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 4, "remainTime": 2391, "wattsOutSum": 59, "wattsInSum": 177}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 16, "remainTime": 293, "wattsOutSum": 409, "wattsInSum": 925}, "tid": ""}
+Current Date and Time: 2023-08-31 08:28:38================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 4, "remainTime": 1039, "wattsOutSum": 137, "wattsInSum": 367}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 18, "remainTime": 289, "wattsOutSum": 433, "wattsInSum": 955}, "tid": ""}
+Current Date and Time: 2023-08-31 08:33:41================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 5, "remainTime": 808, "wattsOutSum": 164, "wattsInSum": 444}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 19, "remainTime": 275, "wattsOutSum": 457, "wattsInSum": 995}, "tid": ""}
+Current Date and Time: 2023-08-31 08:38:44================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 5, "remainTime": 589, "wattsOutSum": 220, "wattsInSum": 592}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 21, "remainTime": 261, "wattsOutSum": 468, "wattsInSum": 1028}, "tid": ""}
+Current Date and Time: 2023-08-31 08:43:47================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 6, "remainTime": 491, "wattsOutSum": 257, "wattsInSum": 691}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 22, "remainTime": 247, "wattsOutSum": 485, "wattsInSum": 1066}, "tid": ""}
+Current Date and Time: 2023-08-31 08:48:50================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 7, "remainTime": 478, "wattsOutSum": 274, "wattsInSum": 710}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 24, "remainTime": 231, "wattsOutSum": 496, "wattsInSum": 1099}, "tid": ""}
+Current Date and Time: 2023-08-31 08:53:54================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 8, "remainTime": 490, "wattsOutSum": 284, "wattsInSum": 710}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 26, "remainTime": 219, "wattsOutSum": 501, "wattsInSum": 1122}, "tid": ""}
+Current Date and Time: 2023-08-31 08:58:57================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 36, "remainTime": 791, "wattsOutSum": 1580, "wattsInSum": 1644}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 70, "remainTime": 521, "wattsOutSum": 1729, "wattsInSum": 1684}, "tid": ""}
+Current Date and Time: 2023-08-31 11:07:33================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 36, "remainTime": 808, "wattsOutSum": 1591, "wattsInSum": 1660}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 69, "remainTime": 527, "wattsOutSum": 1722, "wattsInSum": 1679}, "tid": ""}
+Current Date and Time: 2023-08-31 11:12:36================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 36, "remainTime": 739, "wattsOutSum": 1610, "wattsInSum": 1678}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 69, "remainTime": 501, "wattsOutSum": 1748, "wattsInSum": 1693}, "tid": ""}
+Current Date and Time: 2023-08-31 11:17:39================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 36, "remainTime": 930, "wattsOutSum": 1578, "wattsInSum": 1663}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 68, "remainTime": 541, "wattsOutSum": 1713, "wattsInSum": 1680}, "tid": ""}
+Current Date and Time: 2023-08-31 11:22:43================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 36, "remainTime": 819, "wattsOutSum": 1600, "wattsInSum": 1672}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 67, "remainTime": 575, "wattsOutSum": 1710, "wattsInSum": 1691}, "tid": ""}
+Current Date and Time: 2023-08-31 11:27:46================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 906, "wattsOutSum": 1574, "wattsInSum": 1668}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 67, "remainTime": 613, "wattsOutSum": 1713, "wattsInSum": 1696}, "tid": ""}
+Current Date and Time: 2023-08-31 11:32:49================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 774, "wattsOutSum": 1590, "wattsInSum": 1669}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 66, "remainTime": 574, "wattsOutSum": 1718, "wattsInSum": 1703}, "tid": ""}
+Current Date and Time: 2023-08-31 11:37:52================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 749, "wattsOutSum": 1600, "wattsInSum": 1681}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 65, "remainTime": 499, "wattsOutSum": 1761, "wattsInSum": 1723}, "tid": ""}
+Current Date and Time: 2023-08-31 11:42:56================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 723, "wattsOutSum": 1601, "wattsInSum": 1676}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 65, "remainTime": 537, "wattsOutSum": 1733, "wattsInSum": 1716}, "tid": ""}
+Current Date and Time: 2023-08-31 11:47:59================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 34, "remainTime": 723, "wattsOutSum": 1612, "wattsInSum": 1676}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 64, "remainTime": 471, "wattsOutSum": 1777, "wattsInSum": 1718}, "tid": ""}
+Current Date and Time: 2023-08-31 11:53:02================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 34, "remainTime": 774, "wattsOutSum": 1600, "wattsInSum": 1669}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 64, "remainTime": 538, "wattsOutSum": 1717, "wattsInSum": 1692}, "tid": ""}
+Current Date and Time: 2023-08-31 11:58:05================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 34, "remainTime": 825, "wattsOutSum": 1585, "wattsInSum": 1663}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 63, "remainTime": 590, "wattsOutSum": 1708, "wattsInSum": 1695}, "tid": ""}
+Current Date and Time: 2023-08-31 12:03:09================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 34, "remainTime": 704, "wattsOutSum": 1604, "wattsInSum": 1679}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 62, "remainTime": 493, "wattsOutSum": 1742, "wattsInSum": 1714}, "tid": ""}
+Current Date and Time: 2023-08-31 12:08:12================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 33, "remainTime": 715, "wattsOutSum": 1600, "wattsInSum": 1676}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 62, "remainTime": 508, "wattsOutSum": 1730, "wattsInSum": 1711}, "tid": ""}
+Current Date and Time: 2023-08-31 12:13:15================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 33, "remainTime": 721, "wattsOutSum": 1596, "wattsInSum": 1669}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 61, "remainTime": 489, "wattsOutSum": 1744, "wattsInSum": 1721}, "tid": ""}
+Current Date and Time: 2023-08-31 12:18:18================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 33, "remainTime": 672, "wattsOutSum": 1604, "wattsInSum": 1679}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 61, "remainTime": 558, "wattsOutSum": 1729, "wattsInSum": 1726}, "tid": ""}
+Current Date and Time: 2023-08-31 12:23:22================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 33, "remainTime": 761, "wattsOutSum": 1587, "wattsInSum": 1671}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 60, "remainTime": 608, "wattsOutSum": 1714, "wattsInSum": 1717}, "tid": ""}
+Current Date and Time: 2023-08-31 12:28:25================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 32, "remainTime": 903, "wattsOutSum": 1563, "wattsInSum": 1656}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 59, "remainTime": 528, "wattsOutSum": 1708, "wattsInSum": 1684}, "tid": ""}
+Current Date and Time: 2023-08-31 12:33:28================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 34, "remainTime": 171, "wattsOutSum": 647, "wattsInSum": 1599}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 62, "remainTime": 83, "wattsOutSum": 647, "wattsInSum": 1578}, "tid": ""}
+Current Date and Time: 2023-08-31 12:38:31================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 36, "remainTime": 166, "wattsOutSum": 644, "wattsInSum": 1600}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 64, "remainTime": 77, "wattsOutSum": 638, "wattsInSum": 1583}, "tid": ""}
+Current Date and Time: 2023-08-31 12:43:34================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 8, "remainTime": 287, "wattsOutSum": 0, "wattsInSum": 799}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 64, "remainTime": 79, "wattsOutSum": 638, "wattsInSum": 1555}, "tid": ""}
+Current Date and Time: 2023-08-31 13:17:44================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 42, "remainTime": 340, "wattsOutSum": 1564, "wattsInSum": 1477}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 70, "remainTime": 469, "wattsOutSum": 1698, "wattsInSum": 1619}, "tid": ""}
+Current Date and Time: 2023-08-31 14:11:12================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 43, "remainTime": 187, "wattsOutSum": 519, "wattsInSum": 1280}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 72, "remainTime": 71, "wattsOutSum": 574, "wattsInSum": 1393}, "tid": ""}
+Current Date and Time: 2023-08-31 14:37:14================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 44, "remainTime": 355, "wattsOutSum": 1568, "wattsInSum": 1470}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 74, "remainTime": 340, "wattsOutSum": 1752, "wattsInSum": 1590}, "tid": ""}
+Current Date and Time: 2023-08-31 14:42:17================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 44, "remainTime": 383, "wattsOutSum": 1550, "wattsInSum": 1468}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 73, "remainTime": 397, "wattsOutSum": 1696, "wattsInSum": 1560}, "tid": ""}
+Current Date and Time: 2023-08-31 14:47:20================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 43, "remainTime": 358, "wattsOutSum": 1561, "wattsInSum": 1478}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 72, "remainTime": 380, "wattsOutSum": 1700, "wattsInSum": 1547}, "tid": ""}
+Current Date and Time: 2023-08-31 14:52:24================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 43, "remainTime": 355, "wattsOutSum": 1562, "wattsInSum": 1473}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 71, "remainTime": 348, "wattsOutSum": 1711, "wattsInSum": 1543}, "tid": ""}
+Current Date and Time: 2023-08-31 14:57:27================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 43, "remainTime": 189, "wattsOutSum": 522, "wattsInSum": 1282}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 71, "remainTime": 78, "wattsOutSum": 526, "wattsInSum": 1281}, "tid": ""}
+Current Date and Time: 2023-08-31 15:02:30================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 44, "remainTime": 185, "wattsOutSum": 526, "wattsInSum": 1278}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 73, "remainTime": 75, "wattsOutSum": 522, "wattsInSum": 1257}, "tid": ""}
+Current Date and Time: 2023-08-31 15:07:34================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 53, "remainTime": 157, "wattsOutSum": 1585, "wattsInSum": 1041}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 62, "remainTime": 101, "wattsOutSum": 1725, "wattsInSum": 914}, "tid": ""}
+Current Date and Time: 2023-08-31 17:55:03================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 51, "remainTime": 152, "wattsOutSum": 1545, "wattsInSum": 993}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 59, "remainTime": 97, "wattsOutSum": 1688, "wattsInSum": 876}, "tid": ""}
+Current Date and Time: 2023-08-31 18:00:06================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 51, "remainTime": 424, "wattsOutSum": 167, "wattsInSum": 475}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 59, "remainTime": 773, "wattsOutSum": 73, "wattsInSum": 203}, "tid": ""}
+Current Date and Time: 2023-08-31 18:05:09================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 52, "remainTime": 439, "wattsOutSum": 157, "wattsInSum": 437}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 59, "remainTime": 1037, "wattsOutSum": 56, "wattsInSum": 168}, "tid": ""}
+Current Date and Time: 2023-08-31 18:10:12================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 50, "remainTime": 135, "wattsOutSum": 1545, "wattsInSum": 927}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 57, "remainTime": 90, "wattsOutSum": 1671, "wattsInSum": 832}, "tid": ""}
+Current Date and Time: 2023-08-31 18:15:16================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 49, "remainTime": 119, "wattsOutSum": 1530, "wattsInSum": 833}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 54, "remainTime": 85, "wattsOutSum": 1663, "wattsInSum": 821}, "tid": ""}
+Current Date and Time: 2023-08-31 18:20:19================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 41, "remainTime": 5226, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 42, "remainTime": 4996, "wattsOutSum": 0, "wattsInSum": 20}, "tid": ""}
+Current Date and Time: 2023-08-31 19:10:43================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 36, "remainTime": 4593, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 36, "remainTime": 3446, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 21:32:27================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 4529, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 3390, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 22:49:42================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 4524, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 3387, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 22:54:45================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 4520, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 3383, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 22:59:48================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 4516, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 3379, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 23:04:52================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 4512, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 3375, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 23:09:55================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 4508, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 3371, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 23:14:58================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 4504, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 3367, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-08-31 23:20:01================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 32, "remainTime": 4143, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 31, "remainTime": 3003, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-09-01 06:37:16================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 32, "remainTime": 4137, "wattsOutSum": 0, "wattsInSum": 76}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 31, "remainTime": 3261, "wattsOutSum": 26, "wattsInSum": 93}, "tid": ""}
+Current Date and Time: 2023-09-01 07:18:41================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 32, "remainTime": 4137, "wattsOutSum": 0, "wattsInSum": 66}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 32, "remainTime": 4186, "wattsOutSum": 19, "wattsInSum": 82}, "tid": ""}
+Current Date and Time: 2023-09-01 07:23:44================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 32, "remainTime": 4137, "wattsOutSum": 0, "wattsInSum": 81}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 32, "remainTime": 3754, "wattsOutSum": 0, "wattsInSum": 84}, "tid": ""}
+Current Date and Time: 2023-09-01 07:28:47================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 32, "remainTime": 4835, "wattsOutSum": 26, "wattsInSum": 100}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 32, "remainTime": 2253, "wattsOutSum": 36, "wattsInSum": 132}, "tid": ""}
+Current Date and Time: 2023-09-01 07:33:50================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 32, "remainTime": 3867, "wattsOutSum": 30, "wattsInSum": 111}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 32, "remainTime": 1949, "wattsOutSum": 46, "wattsInSum": 146}, "tid": ""}
+Current Date and Time: 2023-09-01 07:38:54================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 32, "remainTime": 2149, "wattsOutSum": 53, "wattsInSum": 164}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 32, "remainTime": 1044, "wattsOutSum": 79, "wattsInSum": 220}, "tid": ""}
+Current Date and Time: 2023-09-01 07:43:57================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 33, "remainTime": 2032, "wattsOutSum": 56, "wattsInSum": 178}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 32, "remainTime": 894, "wattsOutSum": 89, "wattsInSum": 252}, "tid": ""}
+Current Date and Time: 2023-09-01 07:49:00================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 33, "remainTime": 2566, "wattsOutSum": 40, "wattsInSum": 142}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 33, "remainTime": 1390, "wattsOutSum": 59, "wattsInSum": 176}, "tid": ""}
+Current Date and Time: 2023-09-01 07:54:03================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 33, "remainTime": 2135, "wattsOutSum": 53, "wattsInSum": 171}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 33, "remainTime": 995, "wattsOutSum": 86, "wattsInSum": 230}, "tid": ""}
+Current Date and Time: 2023-09-01 07:59:06================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 33, "remainTime": 1057, "wattsOutSum": 110, "wattsInSum": 298}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 34, "remainTime": 515, "wattsOutSum": 160, "wattsInSum": 412}, "tid": ""}
+Current Date and Time: 2023-09-01 08:04:10================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 34, "remainTime": 871, "wattsOutSum": 127, "wattsInSum": 351}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 257, "wattsOutSum": 308, "wattsInSum": 787}, "tid": ""}
+Current Date and Time: 2023-09-01 08:09:13================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 34, "remainTime": 976, "wattsOutSum": 111, "wattsInSum": 307}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 36, "remainTime": 271, "wattsOutSum": 299, "wattsInSum": 737}, "tid": ""}
+Current Date and Time: 2023-09-01 08:14:16================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 34, "remainTime": 825, "wattsOutSum": 134, "wattsInSum": 365}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 37, "remainTime": 245, "wattsOutSum": 313, "wattsInSum": 808}, "tid": ""}
+Current Date and Time: 2023-09-01 08:19:43================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 35, "remainTime": 919, "wattsOutSum": 117, "wattsInSum": 325}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 38, "remainTime": 345, "wattsOutSum": 201, "wattsInSum": 525}, "tid": ""}
+Current Date and Time: 2023-09-01 08:24:46================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 39, "remainTime": 521, "wattsOutSum": 189, "wattsInSum": 494}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 47, "remainTime": 270, "wattsOutSum": 222, "wattsInSum": 607}, "tid": ""}
+Current Date and Time: 2023-09-01 08:59:43================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 45, "remainTime": 213, "wattsOutSum": 430, "wattsInSum": 1070}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 57, "remainTime": 102, "wattsOutSum": 538, "wattsInSum": 1370}, "tid": ""}
+Current Date and Time: 2023-09-01 09:36:29================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 48, "remainTime": 190, "wattsOutSum": 485, "wattsInSum": 1161}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 62, "remainTime": 92, "wattsOutSum": 563, "wattsInSum": 1390}, "tid": ""}
+Current Date and Time: 2023-09-01 09:57:47================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 49, "remainTime": 498, "wattsOutSum": 210, "wattsInSum": 597}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 64, "remainTime": 84, "wattsOutSum": 577, "wattsInSum": 1428}, "tid": ""}
+Current Date and Time: 2023-09-01 10:02:50================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 51, "remainTime": 156, "wattsOutSum": 560, "wattsInSum": 1359}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 67, "remainTime": 77, "wattsOutSum": 597, "wattsInSum": 1480}, "tid": ""}
+Current Date and Time: 2023-09-01 10:07:53================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 52, "remainTime": 140, "wattsOutSum": 615, "wattsInSum": 1472}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 69, "remainTime": 70, "wattsOutSum": 618, "wattsInSum": 1525}, "tid": ""}
+Current Date and Time: 2023-09-01 10:12:57================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 53, "remainTime": 2770, "wattsOutSum": 1412, "wattsInSum": 1514}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 70, "remainTime": 1163, "wattsOutSum": 1528, "wattsInSum": 1573}, "tid": ""}
+Current Date and Time: 2023-09-01 10:18:00================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 53, "remainTime": 1732, "wattsOutSum": 1459, "wattsInSum": 1533}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 69, "remainTime": 994, "wattsOutSum": 1553, "wattsInSum": 1587}, "tid": ""}
+Current Date and Time: 2023-09-01 10:23:03================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 54, "remainTime": 129, "wattsOutSum": 660, "wattsInSum": 1552}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 72, "remainTime": 65, "wattsOutSum": 652, "wattsInSum": 1566}, "tid": ""}
+Current Date and Time: 2023-09-01 10:28:06================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 56, "remainTime": 150, "wattsOutSum": 560, "wattsInSum": 1255}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 74, "remainTime": 73, "wattsOutSum": 567, "wattsInSum": 1416}, "tid": ""}
+Current Date and Time: 2023-09-01 10:33:10================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 58, "remainTime": 128, "wattsOutSum": 684, "wattsInSum": 1534}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 76, "remainTime": 59, "wattsOutSum": 646, "wattsInSum": 1506}, "tid": ""}
+Current Date and Time: 2023-09-01 10:38:13================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 58, "remainTime": 1859, "wattsOutSum": 1468, "wattsInSum": 1550}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 76, "remainTime": 880, "wattsOutSum": 1579, "wattsInSum": 1583}, "tid": ""}
+Current Date and Time: 2023-09-01 10:43:16================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 58, "remainTime": 125, "wattsOutSum": 684, "wattsInSum": 1543}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 76, "remainTime": 59, "wattsOutSum": 631, "wattsInSum": 1492}, "tid": ""}
+Current Date and Time: 2023-09-01 10:48:19================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 60, "remainTime": 123, "wattsOutSum": 740, "wattsInSum": 1588}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 79, "remainTime": 54, "wattsOutSum": 663, "wattsInSum": 1517}, "tid": ""}
+Current Date and Time: 2023-09-01 10:53:22================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 62, "remainTime": 123, "wattsOutSum": 778, "wattsInSum": 1596}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 81, "remainTime": 50, "wattsOutSum": 677, "wattsInSum": 1525}, "tid": ""}
+Current Date and Time: 2023-09-01 10:58:26================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 100, "remainTime": 228, "wattsOutSum": 1538, "wattsInSum": 749}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 100, "remainTime": 173, "wattsOutSum": 1546, "wattsInSum": 738}, "tid": ""}
+Current Date and Time: 2023-09-01 15:28:32================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 99, "remainTime": 214, "wattsOutSum": 1523, "wattsInSum": 687}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 97, "remainTime": 158, "wattsOutSum": 1523, "wattsInSum": 664}, "tid": ""}
+Current Date and Time: 2023-09-01 15:33:35================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 96, "remainTime": 389, "wattsOutSum": 1495, "wattsInSum": 1120}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 95, "remainTime": 280, "wattsOutSum": 1502, "wattsInSum": 1107}, "tid": ""}
+Current Date and Time: 2023-09-01 15:38:38================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 95, "remainTime": 429, "wattsOutSum": 1497, "wattsInSum": 1188}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 94, "remainTime": 270, "wattsOutSum": 1515, "wattsInSum": 1055}, "tid": ""}
+Current Date and Time: 2023-09-01 15:43:41================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 94, "remainTime": 844, "wattsOutSum": 1569, "wattsInSum": 1482}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 92, "remainTime": 291, "wattsOutSum": 1425, "wattsInSum": 1042}, "tid": ""}
+Current Date and Time: 2023-09-01 15:48:44================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 95, "remainTime": 37, "wattsOutSum": 281, "wattsInSum": 768}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 93, "remainTime": 43, "wattsOutSum": 254, "wattsInSum": 663}, "tid": ""}
+Current Date and Time: 2023-09-01 15:53:48================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 95, "remainTime": 23, "wattsOutSum": 489, "wattsInSum": 1282}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 94, "remainTime": 39, "wattsOutSum": 251, "wattsInSum": 662}, "tid": ""}
+Current Date and Time: 2023-09-01 15:58:51================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 95, "remainTime": 383, "wattsOutSum": 1538, "wattsInSum": 1166}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 93, "remainTime": 717, "wattsOutSum": 1458, "wattsInSum": 1417}, "tid": ""}
+Current Date and Time: 2023-09-01 16:03:54================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 94, "remainTime": 453, "wattsOutSum": 1567, "wattsInSum": 1532}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 92, "remainTime": 1100, "wattsOutSum": 1462, "wattsInSum": 1457}, "tid": ""}
+Current Date and Time: 2023-09-01 16:08:57================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 95, "remainTime": 46, "wattsOutSum": 223, "wattsInSum": 596}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 92, "remainTime": 49, "wattsOutSum": 230, "wattsInSum": 590}, "tid": ""}
+Current Date and Time: 2023-09-01 16:14:01================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 95, "remainTime": 40, "wattsOutSum": 234, "wattsInSum": 606}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 93, "remainTime": 38, "wattsOutSum": 268, "wattsInSum": 669}, "tid": ""}
+Current Date and Time: 2023-09-01 16:19:04================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 96, "remainTime": 38, "wattsOutSum": 210, "wattsInSum": 546}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 94, "remainTime": 41, "wattsOutSum": 210, "wattsInSum": 546}, "tid": ""}
+Current Date and Time: 2023-09-01 16:24:07================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 96, "remainTime": 310, "wattsOutSum": 1528, "wattsInSum": 1004}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 93, "remainTime": 259, "wattsOutSum": 1415, "wattsInSum": 948}, "tid": ""}
+Current Date and Time: 2023-09-01 16:29:10================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 95, "remainTime": 46, "wattsOutSum": 207, "wattsInSum": 531}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 93, "remainTime": 49, "wattsOutSum": 210, "wattsInSum": 544}, "tid": ""}
+Current Date and Time: 2023-09-01 16:48:22================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 95, "remainTime": 281, "wattsOutSum": 1483, "wattsInSum": 918}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 92, "remainTime": 229, "wattsOutSum": 1443, "wattsInSum": 915}, "tid": ""}
+Current Date and Time: 2023-09-01 16:53:25================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 93, "remainTime": 273, "wattsOutSum": 1528, "wattsInSum": 955}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 90, "remainTime": 221, "wattsOutSum": 1473, "wattsInSum": 916}, "tid": ""}
+Current Date and Time: 2023-09-01 16:58:28================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 93, "remainTime": 81, "wattsOutSum": 132, "wattsInSum": 412}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 90, "remainTime": 78, "wattsOutSum": 162, "wattsInSum": 432}, "tid": ""}
+Current Date and Time: 2023-09-01 17:03:31================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 93, "remainTime": 72, "wattsOutSum": 155, "wattsInSum": 430}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 91, "remainTime": 74, "wattsOutSum": 166, "wattsInSum": 430}, "tid": ""}
+Current Date and Time: 2023-09-01 17:08:35================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 94, "remainTime": 65, "wattsOutSum": 179, "wattsInSum": 459}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 92, "remainTime": 65, "wattsOutSum": 180, "wattsInSum": 465}, "tid": ""}
+Current Date and Time: 2023-09-01 17:13:38================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 93, "remainTime": 257, "wattsOutSum": 1524, "wattsInSum": 903}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 91, "remainTime": 210, "wattsOutSum": 1419, "wattsInSum": 852}, "tid": ""}
+Current Date and Time: 2023-09-01 17:18:41================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 91, "remainTime": 144, "wattsOutSum": 60, "wattsInSum": 248}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 88, "remainTime": 118, "wattsOutSum": 50, "wattsInSum": 250}, "tid": ""}
+Current Date and Time: 2023-09-01 17:23:44================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 91, "remainTime": 203, "wattsOutSum": 47, "wattsInSum": 189}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 89, "remainTime": 218, "wattsOutSum": 57, "wattsInSum": 185}, "tid": ""}
+Current Date and Time: 2023-09-01 17:28:48================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 92, "remainTime": 259, "wattsOutSum": 40, "wattsInSum": 161}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 89, "remainTime": 287, "wattsOutSum": 47, "wattsInSum": 158}, "tid": ""}
+Current Date and Time: 2023-09-01 17:33:51================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 92, "remainTime": 228, "wattsOutSum": 1451, "wattsInSum": 714}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 89, "remainTime": 181, "wattsOutSum": 1372, "wattsInSum": 695}, "tid": ""}
+Current Date and Time: 2023-09-01 17:38:54================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 90, "remainTime": 211, "wattsOutSum": 1481, "wattsInSum": 727}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 86, "remainTime": 170, "wattsOutSum": 1376, "wattsInSum": 670}, "tid": ""}
+Current Date and Time: 2023-09-01 17:43:57================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 89, "remainTime": 583, "wattsOutSum": 0, "wattsInSum": 90}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 86, "remainTime": 776, "wattsOutSum": 0, "wattsInSum": 84}, "tid": ""}
+Current Date and Time: 2023-09-01 17:49:00================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 89, "remainTime": 791, "wattsOutSum": 0, "wattsInSum": 77}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 86, "remainTime": 882, "wattsOutSum": 0, "wattsInSum": 71}, "tid": ""}
+Current Date and Time: 2023-09-01 17:54:04================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 89, "remainTime": 11325, "wattsOutSum": 0, "wattsInSum": 51}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 86, "remainTime": 8228, "wattsOutSum": 0, "wattsInSum": 44}, "tid": ""}
+Current Date and Time: 2023-09-01 17:59:07================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 88, "remainTime": 203, "wattsOutSum": 1474, "wattsInSum": 703}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 84, "remainTime": 163, "wattsOutSum": 1356, "wattsInSum": 610}, "tid": ""}
+Current Date and Time: 2023-09-01 18:04:10================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 85, "remainTime": 866, "wattsOutSum": 0, "wattsInSum": 36}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 82, "remainTime": 157, "wattsOutSum": 1364, "wattsInSum": 606}, "tid": ""}
+Current Date and Time: 2023-09-01 18:09:13================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 85, "remainTime": 10883, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 82, "remainTime": 7826, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-09-01 18:14:17================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 85, "remainTime": 10871, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 81, "remainTime": 7804, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-09-01 18:49:13================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 85, "remainTime": 10868, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 81, "remainTime": 7800, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-09-01 18:54:17================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 85, "remainTime": 10843, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 81, "remainTime": 7773, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-09-01 19:29:15================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 85, "remainTime": 10839, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 81, "remainTime": 7769, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-09-01 19:34:19================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 85, "remainTime": 10836, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 81, "remainTime": 7765, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-09-01 19:39:22================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 85, "remainTime": 10832, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 81, "remainTime": 7760, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-09-01 19:44:25================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 85, "remainTime": 10829, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 81, "remainTime": 7756, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-09-01 19:49:28================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 81, "remainTime": 10316, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 76, "remainTime": 7258, "wattsOutSum": 0, "wattsInSum": 0}, "tid": ""}
+Current Date and Time: 2023-09-01 23:00:20================================================================================
+Data for device DCABZ8ZF1140068:
+{"code": "0", "message": "Success", "data": {"soc": 30, "remainTime": 360, "wattsOutSum": 1642, "wattsInSum": 1660}, "tid": ""}
+Data for device DCABZ8ZE7080453:
+{"code": "0", "message": "Success", "data": {"soc": 37, "remainTime": 181, "wattsOutSum": 1787, "wattsInSum": 1634}, "tid": ""}
+Current Date and Time: 2023-09-10 11:11:03================================================================================
